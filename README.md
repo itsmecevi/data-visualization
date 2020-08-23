@@ -9,3 +9,7 @@
 <span>&#xf108;</span> [Install Tableau free 14-day trial](https://www.tableau.com/en-gb/products/trial)
 
 <span>&#xf108;</span> [Sign up Tableau Public account](https://public.tableau.com/s/)
+
+______
+
+
