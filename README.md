@@ -130,10 +130,10 @@ ______
 
     * [Medigo-BI](https://itsmecevi.github.io/medigo-bi/)
 
-## -Executive Summary:
+## Extras
+* Executive Summary: [Tableau from A-Z with data journalism](https://trello.com/c/7MSdbWmD/505-inovasi-dan-teknologi-baru-si-tableau)
+* References: https://trello.com/b/fCiyw9I4/references
 
-[Tableau from A-Z with data journalism](https://trello.com/c/7MSdbWmD/505-inovasi-dan-teknologi-baru-si-tableau)
 
-## References: https://trello.com/b/fCiyw9I4/references
 
 
