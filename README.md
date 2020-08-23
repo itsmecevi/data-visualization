@@ -133,9 +133,7 @@ ______
 
 ## Use Case
 
-* Health: 
-
-    * [Medigo-BI](https://itsmecevi.github.io/medigo-bi/)
+* [Superstore](https://github.com/itsmecevi/global-superstore-new/blob/master/Global%20Superstore.xls)
 
 ## Extras
 * Executive Summary: [Tableau from A-Z with data journalism](https://trello.com/c/7MSdbWmD/505-inovasi-dan-teknologi-baru-si-tableau)
