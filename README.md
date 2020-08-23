@@ -14,6 +14,15 @@ ______
 
 ## Introduction to Data Visualization:
 
+* The Power of Data Visualization:
+    * [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
+    * [Gapminder](https://www.gapminder.org/)
+    * Goals : 
+        * Data Exploration — find the unknown (trends, outliers, patterns)
+        * Data Analysis — check hypotheses
+        * Presentation — communicate and disseminate (share function-> data journalism)
+        * Confirmatory Analysis - to confirm our understanding and analysis of the data
+    
 * Information visualization (Intro)
 * Classic Example
 * Visualization Basics
@@ -27,18 +36,7 @@ ______
 
 ## Essential Data Visualization Workflow & Techniques (Best Practices with Tableau)
 
-### The Power of Data Visualization
-
-* [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
-* [Gapminder](https://www.gapminder.org/)
-* Goals : 
-     * Data Exploration — find the unknown (trends, outliers, patterns)
-     * Data Analysis — check hypotheses
-     * Presentation — communicate and disseminate (share function-> data journalism)
-     * Confirmatory Analysis - to confirm our understanding and analysis of the data
-
-### Hands-On Tableau BI
-
+* Essentials Techniques
 * Tableau 101
 * Tableau Trends
 * Connecting to data:
@@ -115,7 +113,14 @@ ______
 * Machine Learning: Quick Clusterisation & Forecasting
 * Sheet
 * Dashboard (Filter, Actions Highlight, & Formatting)
-* Story
+* KPI:
+    * Business KPI
+    * Financial KPI
+    * Sales KPI
+    * Marketing KPI
+    * Project Management KPI
+
+
 
 
 
