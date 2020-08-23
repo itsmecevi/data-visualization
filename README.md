@@ -47,11 +47,11 @@ ______
         * When you have a fast database
         * When you need up-to-the minute data (real-time)
     * Extract connection (in memory) :
-         * When your database is too slow for interactive analytics
+        * When your database is too slow for interactive analytics
         * When you need to take load off a transactional database (size of the data)
         * When you need to be offline (without internet connections)
         
- * Data sources:
+    * Data sources:
  
       * Excel : [World_Bank_CO2.xlsx](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
       * CSV : [FL_insurance_sample.csv](https://github.com/itsmecevi/FL_insurance_sample/blob/master/FL_insurance_sample.csv)
