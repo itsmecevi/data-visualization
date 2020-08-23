@@ -12,4 +12,31 @@
 
 ______
 
+## Introduction to Data Visualization:
+
+* [Information visualization (Intro)]
+* Classic Example
+* Visualization Basics
+* Visual System
+* Visual Perception
+* What is Color
+* Color Vision
+* Effective Charts
+* Various Examples
+
+
+## Essential Data Visualization Workflow & Techniques (Best Practices with Tableau)
+
+### The Power of Data Visualization
+
+* [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
+* [Gapminder](https://www.gapminder.org/)
+* Goals : 
+     * Data Exploration — find the unknown (trends, outliers, patterns)
+     * Data Analysis — check hypotheses
+     * Presentation — communicate and disseminate (share function-> data journalism)
+     * Confirmatory Analysis - to confirm our understanding and analysis of the data
+
+
+
 
