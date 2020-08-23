@@ -14,7 +14,7 @@ ______
 
 ## Introduction to Data Visualization:
 
-* [Information visualization (Intro)]
+* Information visualization (Intro)
 * Classic Example
 * Visualization Basics
 * Visual System
@@ -37,6 +37,10 @@ ______
      * Presentation — communicate and disseminate (share function-> data journalism)
      * Confirmatory Analysis - to confirm our understanding and analysis of the data
 
+### Hands-On Tableau BI
 
+* Tableau 101
+* 
+* 
 
 
