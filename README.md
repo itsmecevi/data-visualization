@@ -36,7 +36,14 @@ ______
 
 ## Essential Data Visualization Workflow & Techniques (Best Practices with Tableau)
 
-* Essentials Techniques
+* Essentials Techniques:
+   * Know Your Audience
+   * Set Your Goals
+   * Choose The Right Chart Type (Visualization preferences)
+   * Color Theory
+   * Handle Big Data
+   * Include Comparisons
+
 * Tableau 101
 * Tableau Trends
 * Connecting to data:
