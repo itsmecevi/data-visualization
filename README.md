@@ -10,6 +10,8 @@
 
 <span>&#xf108;</span> [Sign up Tableau Public account](https://public.tableau.com/s/)
 
+&#118701;
+📘
 ______
 
 ## Introduction to Data Visualization:
