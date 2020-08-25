@@ -13,7 +13,7 @@
 
 <span>📘</span>[Curriculum Planning](https://github.com/itsmecevi/slide-data-visualization-draft)
 
-<span>🧗</span>[Pretest-Data Visualization]()
+<span>🧗</span>[Pretest-Data Visualization](https://itsmecevi.github.io/pretest-data-visualization/)
 
 
 
@@ -30,7 +30,7 @@ ______
         * Presentation — communicate and disseminate (share function-> data journalism)
         * Confirmatory Analysis - to confirm our understanding and analysis of the data
     
-* Information visualization (Intro)
+* Information Design (Intro)
 * Classic Example
 * Visualization Basics
 * Visual System
@@ -46,7 +46,7 @@ ______
 * Essentials Techniques:
    * Know Your Audience
    * Set Your Goals
-   * Choose The Right Chart Type (Visualization preferences)
+   * Choose The Right Chart Type (Visual References)
    * Color Theory
    * Handle Big Data
    * Include Comparisons
