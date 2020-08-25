@@ -11,7 +11,7 @@
 <span>🖱️</span> [Sign up Tableau Public account](https://public.tableau.com/s/)
 
 
-<span>📘</span>[Curriculum Planning](https://docs.google.com/presentation/d/1EPBybedMcVdf7QBd1DMcToCOsXTFscLyKN_0Nwqyqs0/edit?usp=sharing)
+<span>📘</span>[Curriculum Planning](https://github.com/itsmecevi/slide-data-visualization-draft)
 
 
 ______
