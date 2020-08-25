@@ -13,6 +13,9 @@
 
 <span>📘</span>[Curriculum Planning](https://github.com/itsmecevi/slide-data-visualization-draft)
 
+<span>🧗</span>[Pretest]()
+
+
 
 ______
 
