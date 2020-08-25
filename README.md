@@ -6,12 +6,12 @@
 
 <span>&#128201;</span> [Technical Spesifications](https://github.com/itsmecevi/Tableau-Technical-Specifications/blob/master/Tableau-Technical%20Specifications.pdf)
 
-<span>&#xf108;</span> [Install Tableau free 14-day trial](https://www.tableau.com/en-gb/products/trial)
+<span>💻</span> [Install Tableau free 14-day trial](https://www.tableau.com/en-gb/products/trial)
 
-<span>&#xf108;</span> [Sign up Tableau Public account](https://public.tableau.com/s/)
+<span>🖱️</span> [Sign up Tableau Public account](https://public.tableau.com/s/)
 
-&#118701;
-📘
+
+<span>📘</span>[Curriculum Planning](https://docs.google.com/presentation/d/1EPBybedMcVdf7QBd1DMcToCOsXTFscLyKN_0Nwqyqs0/edit?usp=sharing)
 ______
 
 ## Introduction to Data Visualization:
