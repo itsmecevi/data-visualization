@@ -135,7 +135,7 @@ ______
 
 
 
-## Use Case
+## Project
 
 * [Superstore](https://github.com/itsmecevi/global-superstore-new/blob/master/Global%20Superstore.xls)
 
