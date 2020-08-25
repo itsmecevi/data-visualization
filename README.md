@@ -19,7 +19,7 @@
 
 ______
 
-## Introduction to Data Visualization:
+## Introduction to Data Visualization-Asyn:
 
 * The Power of Data Visualization:
     * [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
@@ -40,7 +40,7 @@ ______
 
 
 
-## Essential Data Visualization Workflow & Techniques (Best Practices with Tableau)
+## Essential Data Visualization Workflow & Techniques (Best Practices with Tableau)-Asyn+Syn
 
 * Essentials Techniques:
    * 1. Know Your Audience
@@ -124,7 +124,7 @@ ______
 * Machine Learning: Quick Clusterisation & Forecasting
 * Sheet
 * Dashboard (Filter, Actions Highlight, & Formatting)
-* KPI: [Thesis](https://github.com/itsmecevi/thesis-msc-cevi/blob/master/Thesis.pdf)
+* KPI-Sync: [Thesis](https://github.com/itsmecevi/thesis-msc-cevi/blob/master/Thesis.pdf)
     * Business KPI
     * Financial KPI
     * Sales KPI
@@ -135,7 +135,7 @@ ______
 
 
 
-## Project
+## Project-Syn
 
 * [Superstore](https://github.com/itsmecevi/global-superstore-new/blob/master/Global%20Superstore.xls)
 
