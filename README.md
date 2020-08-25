@@ -30,29 +30,26 @@ ______
         * Presentation — communicate and disseminate (share function-> data journalism)
         * Confirmatory Analysis - to confirm our understanding and analysis of the data
     
-* Information Design (Intro)
-* Classic Example
-* Visualization Basics
-* Visual System
-* Visual Perception
-* What is Color
-* Color Vision
-* Effective Charts
-* Various Examples
+* [Information Design (Intro)](https://github.com/itsmecevi/information-design/blob/master/Information%20Design.pdf)
+* [Visualization Basics](https://github.com/itsmecevi/visualization-basic/blob/master/Visualization%20Basics.pdf)
+* [Colorology](https://itsmecevi.github.io/colorology/)
+* Simple Graphing Process:
+      * Workflow type 1 (we don’t have data): outcome->design->data searching-> data connection->Tableau (software)
+      * Workflow type 2 (we have data): data searching-> data connection->data preparation->sheet->[dashboard]->story
+* [Use Case Effective Charts](https://github.com/itsmecevi/use-case-effective-chart/blob/master/Use%20Case%20Effective%20Charts.pdf)
+
 
 
 ## Essential Data Visualization Workflow & Techniques (Best Practices with Tableau)
 
 * Essentials Techniques:
-   * Know Your Audience
-   * Set Your Goals
-   * Choose The Right Chart Type (Visual References)
-   * Color Theory
-   * Handle Big Data
-   * Include Comparisons
+   * 1. Know Your Audience
+   * 2. Set Your Goals
+   * 3. [Choose The Right Chart Type (Visual References)](https://github.com/itsmecevi/visualreferences/blob/master/VisualReferences-SQLBI.pdf)
+   * 5. Include Comparisons
 
-* Tableau 101
-* Tableau Trends
+* [Tableau 101](https://github.com/itsmecevi/tableau-101/blob/master/Tableau%20101.pdf)
+* [Tableau Business Intelligence Trends](https://www.tableau.com/reports/business-intelligence-trends)
 * Connecting to data:
 
     * Live connection :
@@ -127,7 +124,7 @@ ______
 * Machine Learning: Quick Clusterisation & Forecasting
 * Sheet
 * Dashboard (Filter, Actions Highlight, & Formatting)
-* KPI:
+* KPI: [Thesis](https://github.com/itsmecevi/thesis-msc-cevi/blob/master/Thesis.pdf)
     * Business KPI
     * Financial KPI
     * Sales KPI
