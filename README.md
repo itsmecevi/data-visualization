@@ -34,8 +34,11 @@ ______
 * [Visualization Basics](https://github.com/itsmecevi/visualization-basic/blob/master/Visualization%20Basics.pdf)
 * [Colorology](https://itsmecevi.github.io/colorology/)
 * Simple Graphing Process:
-      * Workflow type 1 (we don’t have data): outcome->design->data searching-> data connection->Tableau (software)
-      * Workflow type 2 (we have data): data searching-> data connection->data preparation->sheet->[dashboard]->story
+
+     * Workflow type 1 (we don’t have data): outcome->design->data searching-> data connection->Tableau (software)
+      
+     * Workflow type 2 (we have data): data searching-> data connection->data preparation->sheet->[dashboard]->story
+      
 * [Use Case Effective Charts](https://github.com/itsmecevi/use-case-effective-chart/blob/master/Use%20Case%20Effective%20Charts.pdf)
 
 
